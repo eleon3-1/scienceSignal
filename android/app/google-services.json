@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601824389656",
+    "project_id": "sciencesignalcloud",
+    "storage_bucket": "sciencesignalcloud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601824389656:android:1a3f426d7604e2c141316d",
+        "android_client_info": {
+          "package_name": "com.example.sciencesignalcloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-T6hkG4RPYhAoybD7U2KBMj-PDxtG7HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
